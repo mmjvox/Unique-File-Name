@@ -1,5 +1,5 @@
 # Unique-File-Name
-Suggests a unique file name when saving new files for Qt.
+Suggests a unique file name when saving new files in Qt.
 
 
 ## file name.txt

@@ -33,3 +33,5 @@ class UniqueFileName
         return fileName;
     }
 };
+
+#endif // UNIQUEFILENAME_H
